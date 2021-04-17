@@ -62,7 +62,7 @@ while True:
 
 
 answer = 28
-question = ('What a two-digit number am I thinkigin of? ') 
+question = ('What a two-digit number am I thinking of? ') 
 print("Let's play the guessing game!")
 while True:
     guess = int(input(question))
