@@ -171,9 +171,5 @@
 
 
   
-# Admission for anyone under age 4 is free.
-# Admission for anyone between the ages of 4 and 18 is $5.
-# Admission for anyone age 18 or older is $10.
+.
  
- if age < 4:
-     print
