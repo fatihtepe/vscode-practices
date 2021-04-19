@@ -170,5 +170,6 @@
 #         print(car.title())
 
 
-  
+a= 3
+print('A is positive number') if a > 0 else print ('A is a negative number')
 
