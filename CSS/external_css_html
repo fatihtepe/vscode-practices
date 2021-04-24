@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="external.css">
+    <style>
+    body {
+    background-color: aquamarine;
+        }
+
+
+    </style>
+
+</head>
+<body style="background-color: green;">
+    <p style="color: bisque;">Hello World!</p>
+
+
+</body>
+</html>

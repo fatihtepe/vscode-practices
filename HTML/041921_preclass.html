@@ -1,27 +1,78 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Adding Image</title>
+    <link rel="stylesheet" type="text/css" href="file.css">
+<style>
+li {
+  display: inline-block;
+  background-color: gray;
+  border-radius: 3px;
+  padding: 2px;
+  margin-left: 20px;
+}
+p {color: white; background-color: yellow; text-align: center; font-size: larger;}
+/* this is comment*/ 
+h1 {color: rgb(89, 0, 255);text-align: center; font-size: x-large;} 
+li {text-decoration:double }
+img {animation: forwards;}
+div {background-color: rgb(97, 66, 27); box-sizing: border-box;
+  border: 20px solid rgb(213, 34, 34);padding: 20px; margin:auto 10px;}
+.feature-box {
+  display: flex;
+}
+.feature-box div{
+width: 100%;
+margin: 2px;
+}
+section.feature-box div {
+  background: gray;
+  width: 100%;
+  margin: 1px;
+}
+li:first-child {
+background-color: blueviolet;
+}
+@media screen and (max-width: 800px){}
+@media TV and (min-width: 1200px){}
+
+</style>
 </head>
 <body>
     <h1>HTML Image</h1> 
     <h2>Viva Canada</h2>
     <img src="https://pbs.twimg.com/media/EzV8oDhUcAYqARS?format=jpg&name=small" 
-     alt="cra" width='100%' height="auto" border="10px"> 
+     alt="cra" width='50%' height="auto" border="10px"> 
      <h1>HTML Links</h1>
 
      <p> <font color="red">Please click the flag to open the web page </font> <br>
         <a href="https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/1200px-Flag_of_Canada_%28Pantone%29.svg.png" alt="Canada Flag" width="50%" height="auto"></a>  
-        
-
+        <p style="color: purple;">Hello World</p>   
+      
      </p>
+<ul>
+  <li>
+    Shopping List 
+    </li>
+  <li>
+    Flag Festival
+  </li>
+  <li>
+    Bazaar
+  </li>
+  <section class="feature-box">
+    <div>Section a</div>
+    <div>Section b</div>
+    <div>Section c</div>
+  </section>
+  <section class="feature-box">
+    <div>Section d</div>
+    <div>Section e</div>
+  </section>
+ 
+</ul>
 
 
 </body>
-
 
 
 </html>
