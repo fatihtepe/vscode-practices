@@ -1,0 +1,63 @@
+
+#header .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ul li{
+    display: inline-block;
+}
+span{
+    color: #FF0000;
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+#main .container{
+    height: 90%;
+    overflow: hidden;
+}
+#main{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.7),  rgba(0, 0, 0, 0.6)), url(banner.jpg);
+    background-size: cover;
+}
+a{
+    color:#ffffff;
+    text-decoration: none;
+    margin: 18px;
+    font-size: 16px;
+}
+#header{
+    background-color: black;
+    border-bottom: solid 4px #FF0000;
+}
+body{
+    font-family: 'Audiowide', cursive;
+    color: white;
+}
+
+#main h1{
+    font-size: 60px;
+    margin: 17%;
+    text-align: center;
+}
+#main p{
+    font-size: 30px;
+    text-align: center;
+}
+#about, #contact{
+    margin-top: 7px;
+    background-color: black;
+    height: fit-content;
+}
+h2{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 30px;
+    color: #FF0000;
+}
+#about p, #contact p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
