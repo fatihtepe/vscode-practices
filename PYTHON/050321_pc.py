@@ -127,5 +127,20 @@ def check_prime(number):
 print(check_prime(19))
 
 
+def check_bra(a):
+    key_value = {'(': ')', '[':']', '{':'}'}
+    open_brac = set(['(', '[', '{'])
+    list_1 = []
+    for i in a:
+        if i in open_brac:
+            list_1.append(i)
+        elif list_1 and  i == key_value[list_1[-1]]:
+            list_1.pop()   
+        else:
+            return False
+    return list_1 == []
+bracelets = input("please enter bracelets correct way: ")
+print(check_bra(bracelets))
+
 
 
