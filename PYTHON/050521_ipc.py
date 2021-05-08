@@ -244,4 +244,4 @@ letter = map(zip, letter1, letter2, letter3)
 
 for i in letter:
     for j in i:
-#         print(j)
+        print(j)
