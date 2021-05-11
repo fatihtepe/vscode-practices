@@ -85,3 +85,17 @@ pack(*mylist)
 
 mydict = {'a': 8, 'b': 9, 'c': 10}  # upacking dict
 pack(**mydict)
+
+
+
+x = [1, 2, 3, 4, 5, 6, 7, 8]
+y = []
+
+for i in x:
+    if i >= 5:
+        y.append(i)
+print(y)
+
+y = [i for i in x if i >= 5]
+print(y)
+
