@@ -88,14 +88,22 @@ pack(**mydict)
 
 
 
-x = [1, 2, 3, 4, 5, 6, 7, 8]
+x = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 y = []
 
 for i in x:
-    if i >= 5:
+    if i % 5 == 0:
         y.append(i)
 print(y)
 
+
 y = [i for i in x if i >= 5]
 print(y)
+
+
+z = lambda x: x ** 2
+l = [3, 4, 5, 6, 7, 8]
+ebru = list(map(z, l))
+print(ebru)
+
 
