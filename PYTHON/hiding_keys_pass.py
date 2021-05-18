@@ -65,4 +65,18 @@ password remains because he/she can open the .env file and see the
 password. To prevent that, make a .gitignore file in the 
 same folder as .env and test.py,and add .env in 
 the .gitignore file, like this.'''
+.env
+'''This .env file will be ignored by Github and won't be visible 
+on our repo. So our userID and password are safe and secure now.
+If you want other users to use your scripts, write the 
+documentation and save that in a Readme.md with details about 
+making a .env file and running the code, and uploading it to 
+your GitHub repo. Other users can use your script by entering 
+their own password and userID in their self-made .env file.
+Signing off
+Using the same method, you can hide secret keys in your Django 
+project, google OAuth tokens, and other secret info and 
+passwords. That’s all for this blog. In case of any query, 
+you can comment on this blog or mail me.
+Thanks and Happy Learning!'''
 '''source ==> https://medium.com/analytics-vidhya/hiding-secret-keys-and-passwords-in-python-2950c6a4359'''
