@@ -33,6 +33,37 @@
 # name = 'Fatih Tepe'
 # print(name[::-1])
 
-import math
-print(math.__doc__)
+# import math
+# print(math.__doc__)
+
+
+
+# from flask import Flask
+# app = Flask(__name__)
+
+# @app.route('/')
+# def hello_world():
+#     return "hello world"
+
+
+# from rich import prin,
+
+# print('hello world')
+
+
+
+# @app.route('/time')
+# def index():
+#     now = datetime.now()
+#     current_time = now.strftime('%D %H:%M:%S')
+#     return {'time': current_time}
+
+# print(index())
+
+# mystring = 'DevOps'
+
+
+
+import logging
+
 
