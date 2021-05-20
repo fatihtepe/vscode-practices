@@ -53,3 +53,16 @@ try:
 except Exception as hatam:
     print(hatam)
     print(type(hatam))
+    
+
+from upper_package import my_package1, my_package2 
+from upper_package.my_package1 import my_module_1, my_module_2
+# print(dir(my_package1))
+
+from upper_package.my_package2 import my_module_3, my_module_4
+# print(dir(my_package2))
+
+
+print(my_module_2.divide(10, 5))
+print(my_module_3.repeater('clarusway ', 3))
+
