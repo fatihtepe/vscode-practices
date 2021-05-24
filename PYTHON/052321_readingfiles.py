@@ -9,17 +9,17 @@ The Tuna Fish can weigh up to 260 kg.
 Squid and Octopus are in the same class.'''
 
 
-# # sea = open('fishes.txt', 'r')
-# # print(sea.read())
-# # sea.close()
+sea = open('fishes.txt', 'r')
+print(sea.read())
+sea.close()
 
 
-# # sea = open('fishes.txt', 'r')
-# # print(sea.read(33))
-# # print(sea.read(33))
-# # sea.seek(0)
-# # print(sea.read(33))
-# # sea.close()
+sea = open('fishes.txt', 'r')
+print(sea.read(33))
+print(sea.read(33))
+sea.seek(0)
+print(sea.read(33))
+sea.close()
 
 
 # # sea = open('fishes.txt', 'r')
