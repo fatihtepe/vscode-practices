@@ -1,0 +1,252 @@
+# {
+# 	"auto_complete":
+# 	{
+# 		"selected_items":
+# 		[
+# 			[
+# 				"met",
+# 				"meta\tTag"
+# 			]
+# 		]
+# 	},
+# 	"buffers":
+# 	[
+# 	],
+# 	"build_system": "",
+# 	"build_system_choices":
+# 	[
+# 		[
+# 			[
+# 				[
+# 					"Packages/Python/Python.sublime-build",
+# 					""
+# 				],
+# 				[
+# 					"Packages/Python/Python.sublime-build",
+# 					"Syntax Check"
+# 				]
+# 			],
+# 			[
+# 				"Packages/Python/Python.sublime-build",
+# 				""
+# 			]
+# 		]
+# 	],
+# 	"build_varint": "",
+# 	"command_palette":
+# 	{
+# 		"height": 0.0,
+# 		"last_filter": "",
+# 		"selected_items":
+# 		[
+# 			[
+# 				"",
+# 				"Snippet: While Loop"
+# 			],
+# 			[
+# 				"install",
+# 				"Package Control: Install Package"
+# 			]
+# 		],
+# 		"width": 0.0
+# 	},
+# 	"console":
+# 	{
+# 		"height": 0.0,
+# 		"history":
+# 		[
+# 		]
+# 	},
+# 	"distraction_free":
+# 	{
+# 		"menu_visible": true,
+# 		"show_minimap": false,
+# 		"show_open_files": false,
+# 		"show_tabs": false,
+# 		"side_bar_visible": false,
+# 		"status_bar_visible": false
+# 	},
+# 	"file_history":
+# 	[
+# 		"/Users/tepe/Desktop/GitHub/cheat_sheets/Linux/Ohh my linux :))",
+# 		"/Users/tepe/Desktop/GitHub/VSCODE/PYTHON/upper_package/my_package1/my_module_1.py",
+# 		"/Users/tepe/Desktop/GitHub/cheat_sheets/Linux/Vi Cheat Sheet",
+# 		"/Users/tepe/Desktop/GitHub/cheat_sheets/Vi Cheat Sheet",
+# 		"/Users/tepe/Desktop/GitHub/homebrew_essentials/pip.txt",
+# 		"/Users/tepe/Desktop/streamlit.txt",
+# 		"/Users/tepe/Desktop/GitHub/it-fundamentals/sql/Assignments/SQL_2nd Assignment",
+# 		"/Users/tepe/Desktop/GitHub/check_lists/SQL/SQL Fundemental.txt",
+# 		"/Users/tepe/Desktop/<div class=\"container\">.html",
+# 		"/Users/tepe/Desktop/GitHub/VSCODE/HTML/041521_inclass_tags.html",
+# 		"/Users/tepe/Desktop/GitHub/VSCODE/HTML/041521_inclass_exer.html",
+# 		"/Users/tepe/Desktop/GitHub/VSCODE/HTML/041521_inclass_subl.html",
+# 		"/Users/tepe/Desktop/GitHub/homebrew_essentials/Homebrew_Pro_Installation",
+# 		"/Users/tepe/Downloads/oceanic-next-iterm-master/README.md",
+# 		"/Users/tepe/Desktop/GitHub/learn_python/InterviewQA/Interview_questions_python",
+# 		"/Users/tepe/Desktop/GitHub/check_lists/Remote to Local Checklist",
+# 		"/Users/tepe/Downloads/set-kümeler.py",
+# 		"/Users/tepe/Desktop/GIT/check_lists/Forking a project!",
+# 		"/Users/tepe/Desktop/GIT/creating_repoManual/Git-GitHub Checklist",
+# 		"/Users/tepe/.gitconfig",
+# 		"/Users/tepe/Desktop/GIT/git-class/.git/MERGE_MSG",
+# 		"/Users/tepe/Desktop/GIT/git_project/.git/MERGE_MSG",
+# 		"/Users/tepe/Desktop/GIT/git-class/.git/COMMIT_EDITMSG",
+# 		"/Users/tepe/Desktop/GIT/python_ground/.git/MERGE_MSG",
+# 		"/Users/tepe/.bash_profile",
+# 		"/Users/tepe/Desktop/GIT/test/.git/COMMIT_EDITMSG",
+# 		"/Users/tepe/Desktop/GIT/my-second-project/.git/COMMIT_EDITMSG",
+# 		"/Users/tepe/Desktop/GIT/devops/README.md",
+# 		"/Users/tepe/Desktop/GIT/my-demo-repo/README.md",
+# 		"/Users/tepe/Desktop/GIT/git_examples/README.MD",
+# 		"/Users/tepe/Desktop/linux_assign_Fatih_Tepe",
+# 		"/Users/tepe/Desktop/linux_assignment_Fatih_Tepe",
+# 		"/Users/tepe/Desktop/git-proj-032521/lesson-1/hello-world/Assignments.ipynb",
+# 		"/Users/tepe/Desktop/git-proj-032521/lesson-1/hello-world/.git/MERGE_MSG",
+# 		"/Users/tepe/Desktop/git-proj-032521/lesson-1/hello-world/hello-world",
+# 		"/Users/tepe/Desktop/git-proj-032521/lesson-1/taskproject/hello-world/hell-world",
+# 		"/Users/tepe/Desktop/git-proj-032521/lesson-1/taskproject/file1.txt",
+# 		"/Users/tepe/Desktop/git-proj-032521/lesson-1/taskproject/file2.txt",
+# 		"/Users/tepe/Desktop/git-proj-032521/ahmad-lesson/file1.txt",
+# 		"/Users/tepe/Desktop/git-lesson/lesson-1/tepe",
+# 		"/Users/tepe/Desktop/git-lesson/lesson-1/filedeneme.txt",
+# 		"/Users/tepe/Desktop/git-lesson/lesson-1/file4",
+# 		"/Users/tepe/Desktop/git-lesson/lesson-1/file3",
+# 		"/Users/tepe/Desktop/git-lesson/lesson-1/file1.txt",
+# 		"/Users/tepe/Desktop/git-lesson/lesson-1/deneme",
+# 		"/Users/tepe/Desktop/notlar/linux ",
+# 		"/Users/tepe/Desktop/IT/linux/chomod",
+# 		"/Users/tepe/homebrew/Library/Taps/homebrew/homebrew-cask/Casks/git-it.rb",
+# 		"/Users/tepe/Desktop/IT/linux/linux kurulum",
+# 		"/Users/tepe/Desktop/tarik/index.html"
+# 	],
+# 	"find":
+# 	{
+# 		"height": 0.0
+# 	},
+# 	"find_in_files":
+# 	{
+# 		"height": 0.0,
+# 		"where_history":
+# 		[
+# 		]
+# 	},
+# 	"find_state":
+# 	{
+# 		"case_sensitive": false,
+# 		"find_history":
+# 		[
+# 		],
+# 		"highlight": true,
+# 		"in_selection": false,
+# 		"preserve_case": false,
+# 		"regex": false,
+# 		"replace_history":
+# 		[
+# 		],
+# 		"reverse": false,
+# 		"show_context": true,
+# 		"use_buffer2": true,
+# 		"whole_word": false,
+# 		"wrap": true
+# 	},
+# 	"groups":
+# 	[
+# 		{
+# 			"sheets":
+# 			[
+# 			]
+# 		}
+# 	],
+# 	"incremental_find":
+# 	{
+# 		"height": 0.0
+# 	},
+# 	"input":
+# 	{
+# 		"height": 0.0
+# 	},
+# 	"layout":
+# 	{
+# 		"cells":
+# 		[
+# 			[
+# 				0,
+# 				0,
+# 				1,
+# 				1
+# 			]
+# 		],
+# 		"cols":
+# 		[
+# 			0.0,
+# 			1.0
+# 		],
+# 		"rows":
+# 		[
+# 			0.0,
+# 			1.0
+# 		]
+# 	},
+# 	"menu_visible": true,
+# 	"output.exec":
+# 	{
+# 		"height": 470.0
+# 	},
+# 	"output.find_results":
+# 	{
+# 		"height": 0.0
+# 	},
+# 	"pinned_build_system": "",
+# 	"project": "import_os_clear.sublime-project",
+# 	"replace":
+# 	{
+# 		"height": 0.0
+# 	},
+# 	"save_all_on_build": true,
+# 	"select_file":
+# 	{
+# 		"height": 0.0,
+# 		"last_filter": "",
+# 		"selected_items":
+# 		[
+# 		],
+# 		"width": 0.0
+# 	},
+# 	"select_project":
+# 	{
+# 		"height": 0.0,
+# 		"last_filter": "",
+# 		"selected_items":
+# 		[
+# 		],
+# 		"width": 0.0
+# 	},
+# 	"select_symbol":
+# 	{
+# 		"height": 0.0,
+# 		"last_filter": "",
+# 		"selected_items":
+# 		[
+# 		],
+# 		"width": 0.0
+# 	},
+# 	"selected_group": 0,
+# 	"settings":
+# 	{
+# 	},
+# 	"show_minimap": true,
+# 	"show_open_files": false,
+# 	"show_tabs": true,
+# 	"side_bar_visible": true,
+# 	"side_bar_width": 150.0,
+# 	"status_bar_visible": true,
+# 	"template_settings":
+# 	{
+# 	}
+# }
+
+import datetime
+
+print(datetime.date.today)
+
+
