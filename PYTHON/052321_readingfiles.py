@@ -257,3 +257,4 @@ with open("fruits.csv", 'r', newline = '', encoding = 'utf-8') as file:
 
 with open("annual_assesment.csv",'r', encoding='utf-8') as file:
     print(file.read())
+
